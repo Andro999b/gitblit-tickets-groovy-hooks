@@ -1,1 +1,1 @@
-Simple gitblit plugin that try to run jenkins jobs for tickits merging reasons
+Add ability to call repository post recive hooks for gitblit
