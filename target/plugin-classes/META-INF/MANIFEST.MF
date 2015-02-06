@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Plugin-Dependencies: 
+Plugin-Description: gitblit-tickets-groovy-hooks
+Plugin-Id: gitblit-tickets-groovy-hooks
+Archiver-Version: Plexus Archiver
+Built-By: Andrey
+Plugin-Requires: 1.6.0
+Plugin-Provider: gitblit.com
+Plugin-Version: 1.0
+Plugin-Class: com.hatis.gitblit.plugin.TicketsGroovyHookPlugin
+Created-By: Apache Maven 3.0.5
+Build-Jdk: 1.8.0_05
+
